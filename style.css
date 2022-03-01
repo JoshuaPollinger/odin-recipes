@@ -1,5 +1,5 @@
 h1 {
-    color: red;
+    color: black;
     background-color: yellow;
 }
 
@@ -7,4 +7,9 @@ img {
     width: 200px;
     height: auto;
 
+}
+
+.recipe-page {
+    color: rgb(187, 39, 23);
+    background-color: rgb(226, 226, 226);
 }
